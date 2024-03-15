@@ -1,0 +1,19 @@
+{
+  "name": "node-express-scaffold",
+  "version": "1.0.0",
+  "description": "\"A skeleton structure for Node-Express-Mongoose Application\"",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Node",
+    "js",
+    "Express",
+    "js",
+    "MongoDB",
+    "Mongoose"
+  ],
+  "author": "Kunal Kumar Arya",
+  "license": "MIT"
+}
