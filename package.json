@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "\"A skeleton structure for Node-Express-Mongoose Application\"",
   "main": "App.js",
+  "type": "module",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node App.js"
   },
   "keywords": [
     "Node",
