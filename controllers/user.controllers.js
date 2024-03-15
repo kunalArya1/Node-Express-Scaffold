@@ -6,3 +6,7 @@
  * Happy Coding 😊
  *
  */
+
+export const homePage = (req, res, next) => {
+  res.send("Hello from user router");
+};
